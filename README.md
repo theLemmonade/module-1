@@ -32,8 +32,8 @@ The Author is Chris Lemmon.
 
 This code was built and refined during a study group section
 
-###Contributors include:
-*Stephany
-*Alex
-*Joe
-*Nate
+Contributors include:
+* Stephany
+* Alex
+* Joe
+* Nate
