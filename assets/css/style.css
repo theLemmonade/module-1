@@ -9,6 +9,7 @@
 
 body {
     background-color: #d9dcd6;
+    max-width: 1200px;
 }
 
 .header {
@@ -55,9 +56,7 @@ p {
 
 .hero {
     height: 800px;
-    width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -80,7 +79,7 @@ p {
     margin-left: 20px;
 }
 
-.content-main {
+.content-element {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,21 +88,11 @@ p {
     color: #ffffff;
 }
 
-.content-main img {
+.content-element img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.content-element h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
