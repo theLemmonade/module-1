@@ -31,7 +31,7 @@ The Author is Chris Lemmon.
 
 ## Acknowledgments
 
-This code was built and refined during a study group section
+This code was built and refined during a study group session
 
 Contributors include:
 * Stephany
