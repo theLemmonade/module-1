@@ -2,7 +2,7 @@
 
 ## Description
 
-Here is refactored code for Horiseon's website. It's been made accessable via semantic elements in the HTML and CSS. The code has also been optomized, reducing the CSS code from ~200 to ~130 lines. The elements have been neatened to line up better.
+Here is refactored code for Horiseon's website. It's been made accessable via semantic elements in the HTML and CSS. The code has also been optimized, reducing the CSS code from 200 to ~130 lines. The elements have been neatened to line up better.
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ The Author is Chris Lemmon.
     * Refactored code to move images files from .css style sheet into .html document
     * Added missing HTML semantic elements
 * 0.3
-    * Optimizations and improvements!
+    * Optimizations and improvements
 * 0.2
     * CSS consolidation
 * 0.1
