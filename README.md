@@ -8,6 +8,9 @@ Here is refactored code for Horiseon's website. It's been made accessable via se
 
 You can find the website here: https://thelemmonade.github.io/module-1/
 
+## Screen capture
+[screencapture-thelemmonade-github-io-module-1-2022-09-15-16_02_29](https://user-images.githubusercontent.com/112985017/190498130-26f23464-bb1b-4cbd-99b7-16bbd22bbf11.png)
+
 ## Authors
 
 The code has been provided by Uconn Coding Bootcamp.
@@ -35,6 +38,3 @@ Contributors include:
 * Alex
 * Joe
 * Nate
-
-## Screen capture
-[screencapture-thelemmonade-github-io-module-1-2022-09-15-16_02_29](https://user-images.githubusercontent.com/112985017/190498130-26f23464-bb1b-4cbd-99b7-16bbd22bbf11.png)
