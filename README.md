@@ -1,7 +1,5 @@
 # Module 1 Challenge
 
-Simple overview of use/purpose.
-
 ## Description
 
 Here is refactored code for Horiseon's website. It's been made accessable via semantic elements in the HTML and CSS. The code has also been optomized, reducing the CSS code from ~200 to ~130 lines.
